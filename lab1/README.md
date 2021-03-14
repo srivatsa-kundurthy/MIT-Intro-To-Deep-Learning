@@ -2,10 +2,13 @@
   `Task.md` contains lab details.  
 
 ## Lab 1  
-Status: pending
+### Part 1
+Status: Complete  
 Useful links for lab 1:
-* [Understanding tensors](https://www.tensorflow.org/guide/tensor) 
+* [Understanding tensors](https://www.tensorflow.org/guide/tensor), also housed in ```Supplements\tensor.ipynb```.
+### Part 2
+Status: Complete
+Notes:
+* Ensure to have documentation available.
 
-##Lab 2
-Status: not started  
 
