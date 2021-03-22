@@ -2,7 +2,7 @@
 
 Exploring software labs in MIT's Intro to Deep Learning Course. 
   
-    
+Lectures Covered: 3
       
         
           
